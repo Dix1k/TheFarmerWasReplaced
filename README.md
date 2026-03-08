@@ -36,15 +36,16 @@ TheFarmerWasReplaced/
 
 ## 📞 Контакты
 
-**Автор:** Власов Дмитрий
+**Автор:** Власов Дмитрий  
 *   **GitHub:** [Dix1k](https://github.com/Dix1k)
 *   **Email**: Dix1k@yandex.ru
-*   **Telegram**: [Dix1k](https://t.me/Dix1k)
+*   **Telegram**: [@Dix1k](https://t.me/Dix1k)
 
 ---
 
-⭐️ Если этот репозиторий помог вам в учебе или просто показался интересным, не забудьте поставить звезду!
-© Власов Дмитрий
+⭐️ **Понравился проект? Поставьте звезду на GitHub — это поможет другим найти его!**
+
+*© 2026 Власов Дмитрий*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&text=Продолжайте%20кодить&fontSize=30&fontAlignY=70&animation=twinkling" width="100%" alt="Footer"/>
